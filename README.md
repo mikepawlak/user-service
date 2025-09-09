@@ -19,7 +19,6 @@ These instructions will help you get this project up and running locally.
 
    ```bash
    git clone https://github.com/mikepawlak/user-service.git
-   cd user-service
     ```
 2. **Install dependencies**
 
